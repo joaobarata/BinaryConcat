@@ -10,8 +10,10 @@ Provide the binary values to concatenate by filling the input parameters of the 
 
 Both BinaryField1 and BinaryField2 are mandatory Binary Data type variables.
 
-![](./resources/BInaryConcat.png)
+![Extension Content][imglink]
 
 To concatenate the provided binary values, execute the Concatenate action.
 
 The concatenated binary value will be stored inside the BinaryResult output.
+
+[imglink]: ./resources/BinaryConcat.png
